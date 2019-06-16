@@ -6,7 +6,7 @@
 
 .. note:: 环境部署::  
 
-  > git clone https://github.com/toooney/demo-readthedocs.git
+  > git clone https://gitee.com/zhyantao/readthedocs.git
   > pip install sphinx recommonmark sphinx-autobuild sphinx_rtd_theme -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host=mirrors.aliyun.com
 
 二、撰写博文并发表

@@ -46,9 +46,9 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Demo-ReadTheDocs' 
-copyright = u'2019, toooney'
-author = u'Toney-Z'
+project = u'Gitee-Read-the-Docs' 
+copyright = u'2019, zhyantao'
+author = u'Zhang'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -78,8 +78,8 @@ htmlhelp_basename = 'Mannul Doc'
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Demo-ReadTheDocs.tex', 'Demo-ReadTheDocs Documentation',
-     'Toney-Z', 'howto'),
+    (master_doc, 'Gitee-Read-the-Docs.tex', 'Gitee-Read-the-Docs Documentation',
+     'Zhang', 'howto'),
 ]
 
 # -- Options for manual page output ---------------------------------------
@@ -87,7 +87,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'Demo-ReadTheDocs', 'Demo-ReadTheDocs Documentation',
+    (master_doc, 'Gitee-Read-the-Docs', 'Gitee-Read-the-Docs Documentation',
      [author], 1)
 ]
 
@@ -101,8 +101,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Demo-ReadTheDocs', 'Demo-ReadTheDocs Documentation',
-     author, 'Toney-Z', u'Toney-Z',
+    (master_doc, 'Gitee-Read-the-Docs', 'Gitee-Read-the-Docs Documentation',
+     author, 'Zhang', u'Zhang',
      'Miscellaneous'),
 ]
 

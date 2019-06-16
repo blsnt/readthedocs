@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ================================================
-A Demo of `Read the Docs`
+使用Gitee + Read the Docs搭建文档
 ================================================
 
 .. toctree::

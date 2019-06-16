@@ -4,34 +4,4 @@
 优质资源
 ~~~~~~~~
 
--  `黑马程序员：学习路线图 <http://yun.itheima.com/map>`__
--  `北京尚学堂：资源下载页 <http://www.bjsxt.com/download.html>`__
--  `网易云课堂 <https://study.163.com/>`__
--  `淘宝 (终极杀器) <https://www.taobao.com/>`__ - 用它来打印PDF比较便宜
--  `极客学院 <http://ke.jikexueyuan.com/zhiye/javaweb/>`__
--  `慕课网 <https://www.imooc.com/course/list?c=java>`__ -
-   丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源
--  `腾讯云开发者实验室 <https://cloud.tencent.com/developer/labs/gallery>`__
-
-找工作神器
-~~~~~~~~~~
-
--  `牛客网 <https://www.nowcoder.com/>`__
--  `2017秋季校园招聘笔经面经专题汇总 <https://www.nowcoder.com/discuss/12805>`__
--  `剑指Offer <https://www.nowcoder.com/ta/coding-interviews>`__
-
-在线教育
-~~~~~~~~
-
--  `51CTO学院 <http://edu.51cto.com>`__
--  `Codecademy <https://www.codecademy.com/?locale_code=zh>`__
--  `CodeSchool <https://www.codeschool.com>`__
--  `Coursera <https://www.coursera.org/courses?orderby=upcoming&lngs=zh>`__
--  `Learn X in Y minutes <https://learnxinyminutes.com>`__ -
-   数十种语言快速入门教程
--  `实验楼 <https://www.shiyanlou.com>`__
--  `TeamTreeHouse <https://teamtreehouse.com>`__
--  `优达学城 <https://www.udacity.com>`__
--  `学堂在线 <https://www.xuetangx.com>`__
--  `汇智网 <http://www.hubwiz.com>`__
--  `计蒜客 <http://www.jisuanke.com>`__
+-  `Gitee <https://gitee.com/explore>`__
