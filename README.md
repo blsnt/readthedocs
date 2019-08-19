@@ -1,6 +1,6 @@
 # Gitee + Read the Docs 搭建文档
 
-[![Documentation Status](https://readthedocs.org/projects/gitee-readthedocs/badge/?version=latest)](https://gitee-readthedocs.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/gitee-readthedocs/badge/?version=latest)](https://gitee-readthedocs.readthedocs.io/zh_CN/latest/?badge=latest)
 
 ## 简要说明
 
