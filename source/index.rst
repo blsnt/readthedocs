@@ -12,4 +12,3 @@ blsnt 博客
    :glob:
    
    Python/index
-   Python/p
