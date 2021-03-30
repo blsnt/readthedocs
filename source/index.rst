@@ -11,4 +11,4 @@ blsnt 博客
    :maxdepth: 2
    :glob:
    
-   Python/Python
+   Python/Python.md
