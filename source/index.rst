@@ -4,14 +4,11 @@
    contain the root `toctree` directive.
 
 ================================================
-使用Gitee + Read the Docs搭建文档
+blsnt 博客
 ================================================
 
 .. toctree::
    :maxdepth: 2
    :glob:
    
-   docs/preface
-   docs/chapters/*
-   docs/aboutme
    Python/Python
