@@ -4,12 +4,11 @@
    contain the root `toctree` directive.
 
 ================================================
-blsnt 博客
+Python 编程基础
 ================================================
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   
-   Python/index
-   Python/p
+
+   p 
