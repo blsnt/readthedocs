@@ -46,9 +46,9 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Gitee-Read-the-Docs' 
-copyright = u'2019, zhyantao'
-author = u'Zhang'
+project = u'boke'
+copyright = u'2021, blsnt'
+author = u'blsnt'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -112,8 +112,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Gitee-Read-the-Docs', 'Gitee-Read-the-Docs Documentation',
-     author, 'Zhang', u'Zhang',
+    (master_doc, 'boke', 'boke Documentation',
+     author,  u'blsnt',
      'Miscellaneous'),
 ]
 
