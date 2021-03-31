@@ -12,3 +12,4 @@ blsnt 博客
    :glob:
    
    Python/index
+   MySQL/index
